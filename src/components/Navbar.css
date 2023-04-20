@@ -1,0 +1,27 @@
+p{
+    /* float: left; */
+    margin-left: 6px;
+    font-size: larger;
+    color: white;
+
+}
+.p{
+    display: flex;
+    float: left;
+}
+ul{
+    float: right;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 0px 30px;
+    
+    
+}
+.navbar{
+    /* border: 2px solid black; */
+    height: 60px;
+    background-color:#408E91;
+    
+}
